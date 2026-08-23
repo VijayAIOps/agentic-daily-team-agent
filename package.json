@@ -1,0 +1,17 @@
+{
+  "name": "daily-team-agent",
+  "version": "1.0.0",
+  "description": "Agentic Node.js script that sends a daily SRE tip email via Outlook (Graph API)",
+  "main": "daily-team-agent.js",
+  "scripts": {
+    "start": "node daily-team-agent.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/msal-node": "^5.6.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^11.1.1"
+  }
+}

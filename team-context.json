@@ -1,0 +1,12 @@
+{
+  "team": "My SRE Team",
+  "recentWins": [
+    "Reduced page load by optimizing caching",
+    "Shiproom on Friday went smoothly with zero regressions"
+  ],
+  "notes": [
+    "Some team members are on call rotation A this week",
+    "Workload: several small incident follow-ups, planning a postmortem next week"
+  ],
+  "mood": "optimistic"
+}
